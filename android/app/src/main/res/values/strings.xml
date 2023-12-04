@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">cogo</string>
+    <string name="facebook_app_id">1700299757158913</string>
+    <string name="fb_login_protocol_scheme">fb1700299757158913</string>
+    <string name="facebook_client_token">dafd03a08c721d322704b273921f7fbf</string>
+</resources>
